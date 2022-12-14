@@ -12,3 +12,11 @@
   justify-content: center;
   padding: 3rem;
 }
+
+.card {
+  flex-direction: row;
+}
+
+.card img {
+  width: 45%;
+}
