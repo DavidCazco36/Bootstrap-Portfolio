@@ -3,60 +3,7 @@
   margin: 0;
 }
 
-.hero-banner {
-  height: 100vh;
-  border: 1px solid red;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 3rem;
-  background-image: url('image/headline-bg-desktop.png');
-}
-
-.card {
-  flex-direction: row;
-  margin: 80px;
-}
-
-.card img {
-  width: 45%;
-}
-
-.container-fluid {
-  flex-direction: row;
-}
-
-.container {
-  flex-direction: column;
-}
-
-.tags {
-  display: flex;
-  flex-direction: row;
-}
-
-.tag1 {
-  width: 50px;
-  height: 50px;
-  background-image: url('image/html.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.tag2 {
-  width: 50px;
-  height: 50px;
-  background-image: url('image/css.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.tag3 {
-  width: 50px;
-  height: 50px;
-  background-image: url('image/js.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
+body {
+  background-color: #E5E5E5;;
 }
 
